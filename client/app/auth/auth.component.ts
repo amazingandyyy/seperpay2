@@ -5,9 +5,5 @@ import { Component, OnInit } from '@angular/core';
     selector: 'sp-auth',
     templateUrl: 'auth.component.html'
 })
-export class AuthComponent implements OnInit {
-    constructor() { }
+export class AuthComponent { }
 
-    ngOnInit() { }
-
-}
