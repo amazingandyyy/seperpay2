@@ -1,9 +1,9 @@
-#projects website
-author is (amazingandyyy){http://amazingandyyy.github.io/}
+# projects website
+author is [amazingandyyy](https://www.amazingandyyy.com/)
 
-#####This will be an amazing app
+##### This will be an amazing app
 
-##Technics applied:
+## Technics applied:
 - Node
 - Express
 - Mongoose
